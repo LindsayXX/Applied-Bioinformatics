@@ -1,0 +1,43 @@
+
+   7 Populations
+
+Neighbor-Joining/UPGMA method version 3.696
+
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+    +Mus_muscul
+  +-4 
+  ! ! +Fly       
+  ! +-3 
+  !   ! +Ecoli     
+  !   +-2 
+  !     +----Thermus_th
+  ! 
+  ! +Yeast     
+  5-1 
+  ! +-Plasmodium
+  ! 
+  +Hsapiens  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   5             4            0.00188
+   4          Mus_muscul      0.00487
+   4             3            0.00913
+   3          Fly             0.00183
+   3             2            0.02567
+   2          Ecoli           0.00288
+   2          Thermus_th      0.08512
+   5             1            0.03075
+   1          Yeast           0.01020
+   1          Plasmodium      0.03780
+   5          Hsapiens        0.00225
+
+
